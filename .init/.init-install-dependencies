@@ -1,0 +1,4 @@
+{
+    "command": "flutter pub get",
+    "working_directory": "/home/kavia/workspace/code-generation/airport-navigation-assistant-8690-8700/frontend_airport_navigation"
+}
